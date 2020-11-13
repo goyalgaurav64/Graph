@@ -1,0 +1,1 @@
+fare=float('inf')
